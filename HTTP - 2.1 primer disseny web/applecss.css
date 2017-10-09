@@ -1,4 +1,4 @@
 h1 {color: blue} 
 #rocket {color:red}
-pit { color:green;border-style: dashed;border-width: medium;  border-color:red}
+.pit { color:green;border-style: dashed;border-width: medium;  border-color:red}
 p img {;border-style: double;border-width: medium;  border-color:red} 
